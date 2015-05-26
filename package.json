@@ -1,0 +1,15 @@
+{
+  "name": "modella-default",
+  "version": "1.0.0",
+  "description": "Allows defaultValue to be other than a static string",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Erik Kristensen <erik@erikkristensen.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "modella": "^0.2.14",
+    "tape": "^4.0.0"
+  }
+}
